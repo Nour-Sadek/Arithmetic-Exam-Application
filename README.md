@@ -31,7 +31,9 @@ Download the code.py to your local repository and open the project in your choic
 IDE and run the project.
 
 1 - The application first asks the user to choose between 2 difficulty levels.
+
 2 - After, the application gives the user 5 mathematical questions to solve based on 
 the chosen difficulty level
+
 3 - In the end, the number of correct answers will be outputted, and the user will be 
 asked if they want to save the results in a file or not.
